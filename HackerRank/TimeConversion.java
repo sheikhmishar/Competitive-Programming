@@ -2,7 +2,7 @@
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.*;
-public class Dummy {
+public class TimeConversion {
 
     /*
      * Complete the timeConversion function below.
